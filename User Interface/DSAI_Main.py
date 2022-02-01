@@ -1,3 +1,18 @@
+########################################################
+
+#Copyright (c) DeepSphere.AI 2021
+
+# All rights reserved
+
+# We are sharing this partial code for learning and research, and the idea behind us sharing the source code is to stimulate ideas #and thoughts for the learners to develop their MLOps.
+
+# Author: # DeepSphere.AI | deepsphere.ai | dsschoolofai.com | info@deepsphere.ai
+
+# Release: Initial release
+
+#######################################################
+
+
 from database.redshift import RedshiftConnection,get_aws_secret,get_gcp_secret
 import html
 import streamlit as st

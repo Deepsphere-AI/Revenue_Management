@@ -1,3 +1,17 @@
+########################################################
+
+#Copyright (c) DeepSphere.AI 2021
+
+# All rights reserved
+
+# We are sharing this partial code for learning and research, and the idea behind us sharing the source code is to stimulate ideas #and thoughts for the learners to develop their MLOps.
+
+# Author: # DeepSphere.AI | deepsphere.ai | dsschoolofai.com | info@deepsphere.ai
+
+# Release: Initial release
+
+#######################################################
+
 import numpy as np
 import pandas as pd
 from statsmodels.tsa.statespace.sarimax import SARIMAX
