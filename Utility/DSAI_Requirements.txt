@@ -1,3 +1,19 @@
+########################################################
+
+#Copyright (c) DeepSphere.AI 2021
+
+# All rights reserved
+
+# We are sharing this partial code for learning and research, and the idea behind us sharing the source code is to stimulate ideas #and thoughts for the learners to develop their MLOps.
+
+# Author: # DeepSphere.AI | deepsphere.ai | dsschoolofai.com | info@deepsphere.ai
+
+# Release: Initial release
+
+#######################################################
+
+
+
 boto3==1.20.40
 botocore==1.23.40
 fbprophet==0.7.1
